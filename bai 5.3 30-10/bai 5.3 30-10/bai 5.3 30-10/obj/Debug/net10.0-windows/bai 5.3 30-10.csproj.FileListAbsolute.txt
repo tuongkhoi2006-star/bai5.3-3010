@@ -1,0 +1,51 @@
+E:\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\CafePOS.FormMain.resources
+E:\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\CafePOS.FormQuanLyMon.resources
+E:\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.csproj.GenerateResource.cache
+E:\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.GeneratedMSBuildEditorConfig.editorconfig
+E:\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.AssemblyInfoInputs.cache
+E:\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.AssemblyInfo.cs
+E:\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.csproj.CoreCompileInputs.cache
+E:\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\bai 5.3 30-10.exe
+E:\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\bai 5.3 30-10.deps.json
+E:\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\bai 5.3 30-10.runtimeconfig.json
+E:\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\bai 5.3 30-10.dll
+E:\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\bai 5.3 30-10.pdb
+E:\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+E:\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+E:\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+E:\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+E:\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.csproj.AssemblyReference.cache
+E:\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 .0FF4879E.Up2Date
+E:\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.dll
+E:\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\refint\bai 5.3 30-10.dll
+E:\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.pdb
+E:\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.genruntimeconfig.cache
+E:\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\ref\bai 5.3 30-10.dll
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\bai 5.3 30-10.exe
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\bai 5.3 30-10.deps.json
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\bai 5.3 30-10.runtimeconfig.json
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\bai 5.3 30-10.dll
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\bai 5.3 30-10.pdb
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\CafePOS.FormMain.resources
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\CafePOS.FormQuanLyMon.resources
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.AssemblyInfo.cs
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.sourcelink.json
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 .0FF4879E.Up2Date
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.dll
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\refint\bai 5.3 30-10.dll
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.pdb
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\bai 5.3 30-10.genruntimeconfig.cache
+C:\Users\PC\Downloads\bai 5.3 30-10\bai 5.3 30-10\bai 5.3 30-10\obj\Debug\net10.0-windows\ref\bai 5.3 30-10.dll
